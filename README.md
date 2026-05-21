@@ -55,14 +55,13 @@ Estou em jornada de aprendizado e expansão de competências no ecossistema **Sa
 - Automações inteligentes com **Flows**
 - Boas práticas de desenvolvimento cloud
 
-Acompanhe meu progresso no [Trailhead](https://www.salesforce.com/trailblazer/profile) 🎓
+Acompanhe meu progresso no [Trailhead](https://www.salesforce.com/trailblazer/didy7iu6goar9ha4ug) 🎓
 
 ---
 
 ## 🔗 Conecte-se comigo
 
-- **LinkedIn:** [Seu perfil LinkedIn](https://linkedin.com/in/seu-usuario)
-- **GitHub:** [github.com/seu-usuario](https://github.com/seu-usuario)
+- **LinkedIn:** [Seu perfil LinkedIn](https://www.linkedin.com/in/eduardo-luca-89788a267/)
 - **Trailhead:** [Seu perfil Trailhead](https://www.salesforce.com/trailblazer/profile)
 
 ---
